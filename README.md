@@ -2,8 +2,9 @@
 
  Custom Parametric Footprints and Helper Functions for Leo McElroy's [PCB SVG](https://leomcelroy.com/svg-pcb/), made during FabAcademy 2023 at FabLab Kamakura.
  
-## Helper Functions
-`mm_to_inch.js`
+### Helper Functions
+
+#### mm_to_inch.js
 Convert Millimetet to inch
 
 Usage: `mm_to_inch(nr)`
