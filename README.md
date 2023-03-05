@@ -9,13 +9,14 @@ Convert Millimetet to inch
 
 Usage: `mm_to_inch(nr)`
 
-## Parametric Footprints
+### Parametric Footprints
 
+#### Interior_Square_with_Fillets.js
 
-### Interior_Square_with_Fillets.js
 Square interior with Fillets
 
-### XIAO_modular.js
+#### XIAO_modular.js
+
 XIAO Footprint with modular holes on drill layer. XIAO can be either soldered on or mounted on Pin Headers.
 
 ## KiCAD Footprints
